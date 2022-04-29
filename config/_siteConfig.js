@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Neo Quest',
-  tagline: 'A Web3.0 Software Development Firm',
+  tagline: 'A Software Development Firm',
   featureImage: '/uploads/home-hero.jpg',
   logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {

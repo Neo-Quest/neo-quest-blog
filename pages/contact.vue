@@ -1,10 +1,6 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
-    <site-hero
-      title="Contact Us"
-      subtitle="Example Contact Page"
-      image="/uploads/contact-hero.jpg"
-    ></site-hero>
+    <site-hero title="Contact Us" image="/uploads/contact-hero.jpg"></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="tile is-ancestor">
@@ -16,14 +12,14 @@
               <p class="subtitle">
                 What can we do for you?
               </p>
-              <figure class="image is-1by1 ">
+              <!-- <figure class="image is-1by1 ">
                 <opti-image
                   :src="require('~/assets/uploads/contact-person.jpg').src"
                   :srcset="
                     require('~/assets/uploads/contact-person.jpg').srcSet
                   "
                 />
-              </figure>
+              </figure> -->
               <br />
               <div class="content">
                 <!-- <p>
