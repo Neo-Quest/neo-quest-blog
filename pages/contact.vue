@@ -14,7 +14,7 @@
                 Hello!
               </p>
               <p class="subtitle">
-                What can I do for you?
+                What can we do for you?
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
@@ -26,7 +26,7 @@
               </figure>
               <br />
               <div class="content">
-                <p>
+                <!-- <p>
                   <strong>
                     Edit this page in<code>/pages/contact.vue</code>to fit your
                     needs.
@@ -37,7 +37,7 @@
                   slap an action on to have it post wherever you'd like. Or put
                   the netlify attribute on it and have netlify handle all your
                   form submissions...
-                </p>
+                </p> -->
               </div>
             </article>
           </div>
