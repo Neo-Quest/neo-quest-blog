@@ -15,7 +15,7 @@ export default {
   logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
+    id: 'G-GJZ5LL0SJP' //process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
     // {
